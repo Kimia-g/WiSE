@@ -3,3 +3,8 @@ This is a test for version control
 this is the second line added to this file after the initial commit
 
 random changes
+
+This is the third line I'm adding
+
+I am changing this on github
+
